@@ -1,2 +1,2 @@
 # specializeddevel.github.io
-Sitio personal el Github.io
+Sitio personal en github.io
